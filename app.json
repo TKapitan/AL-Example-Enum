@@ -1,0 +1,28 @@
+{
+  "id": "425df973-0cda-4173-9e7c-e91ae677bae1",
+  "name": "AL Example - Enums",
+  "publisher": "Kepty.cz, Ing. Tomas Kapitan",
+  "version": "1.0.0.0",
+  "brief": "AL Example - Enums",
+  "description": "AL Example - Enums",
+  "privacyStatement": "http://www.kepty.cz",
+  "EULA": "http://www.kepty.cz",
+  "help": "http://www.kepty.cz",
+  "url": "http://www.kepty.cz",
+  "logo": "./res/logo-placeholder.png",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "contextSensitiveHelpUrl": "http://www.kepty.cz",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
